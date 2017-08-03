@@ -1,0 +1,6 @@
+[package]
+name = "chibi"
+version = "0.1.0"
+authors = ["Milo Turner <iitalics@gmail.com>"]
+
+[dependencies]
